@@ -1,0 +1,6 @@
+@AsyncAwaitTestProgramWeb_HostAddress = http://localhost:5022
+
+GET {{AsyncAwaitTestProgramWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
