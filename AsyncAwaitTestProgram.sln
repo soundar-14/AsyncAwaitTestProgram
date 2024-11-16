@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitTestProgramWeb", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitTestProgramApp", "AsyncAwaitTestProgramApp\AsyncAwaitTestProgramApp.csproj", "{52FFB20F-2357-4BF4-B78A-871E617D3E8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{5BF3AC63-7C73-47C2-85B3-B3C7934479AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicCtrOperationConsoleApp1", "ConsoleApp1\BasicCtrOperationConsoleApp1.csproj", "{5BF3AC63-7C73-47C2-85B3-B3C7934479AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
