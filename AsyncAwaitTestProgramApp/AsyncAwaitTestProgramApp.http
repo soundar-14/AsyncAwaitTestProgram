@@ -1,0 +1,6 @@
+# @AsyncAwaitTestProgramApp_HostAddress = 
+
+GET https://localhost:7054/api/GetWeatherForecast HTTP
+Accept: application/json
+
+###
